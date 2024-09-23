@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porfolio</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Porfolio</h1>
+            <div class="links-navbar" id="links-navbar"></div>
+            <button class="btn-cambiar-tema" id="cambiar-tema">
+                <img class="icono" id="icono-dark" src="./assets/moonIcon.svg" alt="icono luna" width="40" height="40">
+                <img class="icono" id="icono-light" src="./assets/sunIcono.svg" alt="icono sol" width="40" height="40">
+            </button>
+        </nav>  
+    </header>
+    <main>
+        
+        <a href="#">
+            <img src="./assets/flechaIcono.svg" alt="icono flecha" class="icono-top" width="40" height="40">
+        </a>
+
+        <section class="section" id="presentacion">
+            <h2 class="titulo">Presentación</h2>
+            <div class="presentacion-container" id="presentacion-container"></div>
+        </section>
+
+        <section class="section" id="proyectos">
+            <h2 class="titulo">Proyectos</h2>
+
+            <div class="grid-2" id="grid-2">
+            </div>
+
+        </section>
+
+        <section class="section" id="contacto">
+            <h2 class="titulo">Contacto</h2>
+
+            <div class="formulario-container">
+
+                <form class="form" id="form">
+
+                    <div class="input-contenedor">
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" id="nombre" name="nombre" required>
+                        <span class="error" id="nombreError"></span>
+                    </div>
+
+                    <div class="input-contenedor">
+                        <label for="telefono"> Teléfono:</label>
+                        <input type="tel" id="telefono" name="telefono" required>
+                        <span class="error" id="telefonoError"></span>
+                    </div>
+
+                    <div class="input-contenedor">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                        <span class="error" id="emailError"></span>
+                    </div>
+
+                    <div class="input-contenedor">
+                        <label for="mensaje">Mensaje:</label>
+                        <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+                        <span class="error" id="mensajeError"></span>
+
+                    </div>
+
+                    <div class="button-contenedor">
+                        <button type="submit">Enviar</button>
+                    </div>
+
+                </form>
+            </div>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>Todos los derechos reservados</p>
+    </footer>
+
+    <script src="./js/formulario.js"></script>
+    <script src="./js/navbar.js"></script>
+    <script src="./js/presentacion.js"></script>
+    <script src="./js/proyectos.js"></script>
+    <script src="./js/tema.js"></script>
+
+</body>
+</html>

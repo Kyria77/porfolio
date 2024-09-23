@@ -1,0 +1,52 @@
+{
+    "navItems" : [     
+    {
+        "title": "Presentacion",
+        "url": "/#presentacion"
+    },
+    {
+        "title": "Proyectos",
+        "url": "/#proyectos"
+    },
+    {
+        "title": "Contacto",
+        "url": "/#contacto"
+    }
+],
+    "presentacion" : [
+    {
+        "nombre": "Verónica Montero Cabello",
+        "trabajo": "Programadora Web",
+        "descripcion": "¡Hola! Mi nombre es Verónica Montero y me dedico al apasionante mundo de la programación web FullStack. Si quieres conocer un poquuito más acerca de mi trabajo, no lo dudes, te invito a mirar y a preguntar cualquier que duda que surja.",
+        "linkedin": "https://www.linkedin.com",
+        "github": "https://github.com/Kyria77",
+        "cvLink": "./assets/curriculum.png"
+    }
+],
+    "proyectos" : [
+    {
+        "nombre": "TIC TAC Recursos educativos",
+        "descripcion": "Creación de página web para venta de recursos educativos. He utilizado los lenguajes de HTML, CSS para determinar los estilos y JavaScript",
+        "tecnologias": "HTML, CSS y JavaScript",
+        "imagen": "../assets/proyectos/ejemplo1.png"
+    },
+    {
+        "nombre": "PAGINA CON HTMLS CSS JAVASCRIPT",
+        "descripcion": "Creación de página web utilizando HTML y CSS para la entrega de un trabajo durante el curso que realicé en Master D.",
+        "tecnologias": "HTML, CSS y JavaScript",
+        "imagen": "../assets/proyectos/ejemplo2.webp"
+    },
+    {
+        "nombre": "CREA TU WEB",
+        "descripcion": "Creación de una página web para un trabajo final en Master D. He incluido Bootstrap como opción personal para practicar",
+        "tecnologias": "HTML, CSS y JavaScript y Bootstrap",
+        "imagen": "../assets/proyectos/ejemplo3.png"
+    },
+    {
+        "nombre": "TRABAJO FINAL JS",
+        "descripcion": "Creación de una web profesional para un trabajo final en MAster D. Para desarrollarla tuve que implementar lógica de validación de formularios con JS y un mapa dinámico usando 'Google Street Maps",
+        "tecnologias": "HTML, CSS y JavaScript",
+        "imagen": "../assets/proyectos/ejemplo6.png"
+    }
+]
+}
