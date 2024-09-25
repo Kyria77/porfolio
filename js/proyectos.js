@@ -7,6 +7,7 @@ fetch("./assets/data/datos.json")
             proyectoContainer.innerHTML +=
             `
                 <div class="proyectos-container" style="background-image: url(${item.imagen})">
+                    <a href=${item.url}></a>
                     <div class="descripcion">
                         <h3>${item.nombre}</h3>
                         <p>${item.descripcion}</p>
