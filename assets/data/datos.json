@@ -26,14 +26,14 @@
     "proyectos" : [
     {
         "nombre": "TIC TAC Recursos educativos",
-        "descripcion": "Creación de página web para venta de recursos educativos. He utilizado los lenguajes de HTML, CSS para determinar los estilos y JavaScript",
-        "tecnologias": "HTML, CSS y JavaScript",
+        "descripcion": "Creación de página web para venta de recursos educativos. He utilizado los lenguajes de HTML, CSS para determinar los estilos. Esta página web se ha creado para entregar como trabajo del Máster de Programación web, la unidad que enseña HTML y CSS",
+        "tecnologias": "HTML, CSS",
         "imagen": "./assets/proyectos/ejemplo1.png",
         "url": "https://kyria77.github.io/Primer_proyecto/"
     },
     {
         "nombre": "PAGINA CON HTMLS CSS JAVASCRIPT",
-        "descripcion": "Creación de página web utilizando HTML y CSS para la entrega de un trabajo durante el curso que realicé en Master D.",
+        "descripcion": "Creación de página web utilizando HTML y CSS para la entrega de un trabajo durante el curso que realicé en Master D. Este trabajo se entrega al finalizar la unidad de JavaScript. El trabajo requería, validación de formulario con presupuesto calculado a tiempo real, una galería dinámica, una carga de Noticias desde un archivo externo JSON y un mapa dinámico que calcule la ruta desde la dirección del cliente, hasta la empresa.",
         "tecnologias": "HTML, CSS y JavaScript",
         "imagen": "./assets/proyectos/ejemplo2.png",
         "url": "https://kyria77.github.io/harimao/"
