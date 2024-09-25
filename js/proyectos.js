@@ -6,14 +6,15 @@ fetch("./assets/data/datos.json")
         data.proyectos.map((item) =>{
             proyectoContainer.innerHTML +=
             `
-                <div class="proyectos-container" style="background-image: url(${item.imagen})">
-                    <a href=${item.url}></a>
-                    <div class="descripcion">
-                        <h3>${item.nombre}</h3>
-                        <p>${item.descripcion}</p>
-                        <small>${item.tecnologias}</small>
+                <a href=${item.url} target="_blank">
+                    <div class="proyectos-container" style="background-image: url(${item.imagen})">
+                        <div class="descripcion">
+                            <h3>${item.nombre}</h3>
+                            <p>${item.descripcion}</p>
+                            <small>${item.tecnologias}</small>
+                        </div>
                     </div>
-                </div>
+                </a>
             `
         })
     })
