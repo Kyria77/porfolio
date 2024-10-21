@@ -17,7 +17,7 @@
     {
         "nombre": "Verónica Montero Cabello",
         "trabajo": "Programadora Web",
-        "descripcion": "¡Hola! Mi nombre es Verónica Montero y me dedico al apasionante mundo de la programación web FullStack. Soy una persona seria, trabajadora, me encanta mantenerme siempre aprendiendo y evolucionando y disfruto de hacer un trabajo minucioso y con mucho detalle. Si quieres conocer un poquuito más acerca de mi trabajo, no lo dudes, te invito a mirar y a preguntar cualquier que duda que surja.",
+        "descripcion": "Soy Verónica Montero, programadora web FullStack con más de 2 años de experiencia en el desarrollo de soluciones dinámicas y escalables. Apasionada por la tecnología, he trabajado con tecnologías como HTML, CSS, JavaScript, C#, MySQL y PHP, diseñando y desarrollando tanto el frontend como el backend de aplicaciones web. Mi enfoque se centra en la calidad del código y la atención al detalle, asegurando que cada proyecto cumpla con altos estándares de eficiencia y funcionalidad.</br> Me considero una persona comprometida, responsable y en constante aprendizaje, siempre buscando nuevas formas de mejorar mis habilidades y de afrontar nuevos retos. Estoy deseando contribuir con mi experiencia y seguir creciendo profesionalmente en el ámbito del desarrollo web.",
         "linkedin": "https://www.linkedin.com",
         "github": "https://github.com/Kyria77",
         "cvLink": "./assets/curriculum.png"
@@ -40,7 +40,7 @@
     },
     {
         "nombre": "AUTOSCASA",
-        "descripcion": "Creación de una página web a modo de aplicación interna para gestionar los servicios de reserva de vehículos, facturación, etc.",
+        "descripcion": "Creación de una página web a modo de aplicación interna para gestionar los servicios de reserva de vehículos, facturación, etc, con la empresa Anvil projects",
         "tecnologias": "HTML, CSS y JavaScript y Bootstrap",
         "imagen": "./assets/proyectos/ejemplo3.png",
         "url": "https://autoscasa.com/"
