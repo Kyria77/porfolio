@@ -2,15 +2,15 @@
     "navItems" : [     
     {
         "title": "Presentacion",
-        "url": "/#presentacion"
+        "url": "#presentacion"
     },
     {
         "title": "Proyectos",
-        "url": "/#proyectos"
+        "url": "#proyectos"
     },
     {
         "title": "Contacto",
-        "url": "/#contacto"
+        "url": "#contacto"
     }
 ],
     "presentacion" : [
