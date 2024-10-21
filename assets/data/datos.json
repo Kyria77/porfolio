@@ -46,11 +46,11 @@
         "url": "https://autoscasa.com/"
     },
     {
-        "nombre": "TRABAJO FINAL JS",
-        "descripcion": "Creación de una web profesional para un trabajo final en MAster D. Para desarrollarla tuve que implementar lógica de validación de formularios con JS y un mapa dinámico usando 'Google Street Maps",
+        "nombre": "PORFOLIO",
+        "descripcion": "Creación de un porfolio mediante HTML, CSS y JavaScript. He utilizado un archivo externo JSON para cargar datos tanto de navBar, como proyectos.",
         "tecnologias": "HTML, CSS y JavaScript",
         "imagen": "./assets/proyectos/ejemplo6.png",
-        "url": "#"
+        "url": "https://kyria77.github.io/porfolio/"
     }
 ]
 }
