@@ -39,11 +39,11 @@
         "url": "https://kyria77.github.io/harimao/"
     },
     {
-        "nombre": "CREA TU WEB",
-        "descripcion": "Creación de una página web para un trabajo final en Master D. He incluido Bootstrap como opción personal para practicar",
+        "nombre": "AUTOSCASA",
+        "descripcion": "Creación de una página web a modo de aplicación interna para gestionar los servicios de reserva de vehículos, facturación, etc.",
         "tecnologias": "HTML, CSS y JavaScript y Bootstrap",
         "imagen": "./assets/proyectos/ejemplo3.png",
-        "url": "#"
+        "url": "https://autoscasa.com/"
     },
     {
         "nombre": "TRABAJO FINAL JS",
