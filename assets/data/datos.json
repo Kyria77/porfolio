@@ -43,7 +43,7 @@
         "nombre": "PORFOLIO",
         "descripcion": "Creación de un porfolio mediante HTML, CSS y JavaScript. He utilizado un archivo externo JSON para cargar datos tanto de navBar, como proyectos.",
         "tecnologias": "HTML, CSS y JavaScript",
-        "imagen": "./assets/proyectos/ejemplo6.png",
+        "imagen": "./assets/proyectos/ejemplo10.png",
         "url": "https://kyria77.github.io/porfolio/"
     }
 ]
