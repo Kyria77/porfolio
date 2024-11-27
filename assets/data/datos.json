@@ -23,7 +23,15 @@
         "cvLink": "./assets/curriculum.png"
     }
 ],
-    "proyectos" : [
+    "proyectos" : [ 
+    {
+        "nombre": "NATURE ADVENTURE",
+        "descripcion": "Creación de mi primer proyecto web con HTML, CSS y JavaScript para la entrega de un trabajo en el Máster. Consta de formulario validado, mapa dinámico, carga de datos desde un archivo externo JSON con Ajax, tarjetas con Bootstrap.",
+        "tecnologias": "HTML, CSS, JavaScript, Bootstrap, OpenStreetMap",
+        "imagen":"./assets/proyectos/ejemplo11.png",
+        "url": "https://kyria77.github.io/Nature_Adventure/"
+
+    },
 
     {
         "nombre": "PAGINA CON HTMLS CSS JAVASCRIPT",
