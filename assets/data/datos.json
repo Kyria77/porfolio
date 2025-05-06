@@ -34,6 +34,24 @@
     },
 
     {
+        "nombre": "STEAM & CO",
+        "descripcion": "Creación del último proyecto del máster en el que solicitaban una página web con un sistema de registro de usuarios y login. En la versión solo de FrontEnd, he utilizado HTML, CSS y JavaScript, ya que era lo que permitían. En la versión que veos al lado, ya estaría todo el sistema FrontEnd y BackEnd.",
+        "tecnologias": "HTML, CSS, JavaScript",
+        "imagen":"./assets/proyectos/steamCo.png",
+        "url": "https://kyria77.github.io/Steam-Co---Trabajo-final-sin-PHP/"
+
+    },
+
+    {
+        "nombre": "STEAM & CO",
+        "descripcion": "Creación del último proyecto del máster en el que solicitaban una página web con un sistema de registro de usuarios y login. En esta versión está incluido el FrontEnd, con HTML, CSS y JavaScript, ya que era lo que permitían, y el BackEnd, en el que está elaborada la base de datos correspondiente con SQL, y un sistema de almacenamiento, modificación y borrado de los datos de la base de datos, de forma dinámica a través del lenguaje PHP.",
+        "tecnologias": "HTML, CSS, JavaScript, PHP, SQL",
+        "imagen":"./assets/proyectos/steamCo.png",
+        "url": "https://github.com/Kyria77/Steam-Co---Trabajo-final-sin-PHP.git"
+
+    },
+
+    {
         "nombre": "PAGINA CON HTMLS CSS JAVASCRIPT",
         "descripcion": "Creación de página web utilizando HTML y CSS para la entrega de un trabajo durante el curso que realicé en Master D. Este trabajo se entrega al finalizar la unidad de JavaScript. El trabajo requería, validación de formulario con presupuesto calculado a tiempo real, una galería dinámica, una carga de Noticias desde un archivo externo JSON y un mapa dinámico que calcule la ruta desde la dirección del cliente, hasta la empresa.",
         "tecnologias": "HTML, CSS y JavaScript",
