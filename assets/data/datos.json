@@ -47,7 +47,7 @@
         "descripcion": "Creación del último proyecto del máster en el que solicitaban una página web con un sistema de registro de usuarios y login. En esta versión está incluido el FrontEnd, con HTML, CSS y JavaScript, ya que era lo que permitían, y el BackEnd, en el que está elaborada la base de datos correspondiente con SQL, y un sistema de almacenamiento, modificación y borrado de los datos de la base de datos, de forma dinámica a través del lenguaje PHP.",
         "tecnologias": "HTML, CSS, JavaScript, PHP, SQL",
         "imagen":"./assets/proyectos/steamCo.png",
-        "url": "https://github.com/Kyria77/Steam-Co---Trabajo-final-sin-PHP.git"
+        "url": "https://github.com/Kyria77/SteamCo_PHP.git"
 
     },
 
